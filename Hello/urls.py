@@ -19,7 +19,7 @@ from django.urls import path,include
 
 admin.site.site_header = "Arpita Admin"
 admin.site.site_title = "Arpita Admin Portal"
-admin.site.index_title = "Welcome to Arpita Books Portal"
+admin.site.index_title = "Welcome to Arpita Icecream Portal"
 
 
 urlpatterns = [
