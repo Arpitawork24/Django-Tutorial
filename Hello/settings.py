@@ -13,6 +13,9 @@ https://docs.djangoproject.com/en/6.0/ref/settings/
 from pathlib import Path
 
 import os
+
+from django.contrib.messages import constants as messages
+
 from dotenv import load_dotenv
 
 load_dotenv()
